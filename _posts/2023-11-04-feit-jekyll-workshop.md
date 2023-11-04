@@ -6,7 +6,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [workshop, web development, jekyll, blogging]
-author: Nick Tunac
+author: Eduardo Jr Co
 ---
 
 Thank you for attending the FEIT workshop on **Building Your Blog with Jekyll**! We hope you found the session informative and empowering as you embark on your journey to mastering web development. Here’s a recap of the amazing skills and knowledge you’ve acquired today.
@@ -42,4 +42,4 @@ We are incredibly proud of what you’ve accomplished today and are excited to s
 
 Until next time, happy coding!
 
-— Nick Tunac
+— Eduardo Jr Co
